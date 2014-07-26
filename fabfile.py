@@ -6,7 +6,7 @@ from fabric.contrib import files
 import os
 
 TMP_PATH     = '/tmp/deploy_tmp'
-GIT_URL      = 'git@github.com'
+GIT_URL      = 'git@bitbucket.org'
 REPO         = ''
 PRODUCT      = ''
 PRODUCT_ROOT = ''
